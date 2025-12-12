@@ -65,5 +65,6 @@
 ## DEMO (HINDI VERSION)
 <img width="1481" height="771" alt="image" src="https://github.com/user-attachments/assets/72ba1721-3bfe-4978-a15f-d435d810d9be" />
 
-
+## ⚠️ Disclaimer
+V.A.I.D. is an AI project developed for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or qualified health provider with any questions you may have regarding a medical condition.
 
