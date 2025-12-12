@@ -41,6 +41,24 @@
 ## ARCHITECTURE
 <img width="1000" height="569" alt="image" src="https://github.com/user-attachments/assets/20c54acb-c0a8-4d4b-ad07-3d4130fe167e" />
 
+## 📂 Project Layout
+
+### Phase 1 – Setup the brain of the Doctor (Multimodal LLM)
+* Setup GROQ API key
+* Convert image to required format
+* Setup Multimodal LLM
+
+### Phase 2 – Setup voice of the patient
+* Setup Audio recorder (ffmpeg & portaudio)
+* Setup Speech to text-STT-model for transcription
+
+### Phase 3 – Setup voice of the Doctor
+* Setup Text to Speech–TTS–model (gTTS & ElevenLabs)
+* Use Model for Text output to Voice
+
+### Phase 4 – Setup UI for the VoiceBot
+* VoiceBot UI with Gradio
+
 ## DEMO (ENGLISH VERSION)
 <img width="1896" height="880" alt="image" src="https://github.com/user-attachments/assets/622a8fbd-7792-4902-9912-175e0db636cc" />
 
